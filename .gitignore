@@ -1,0 +1,12 @@
+# build system
+cmake-build
+build
+
+# temporary files
+*~
+*.log
+
+# gtags files
+GTAGS
+GRTAGS
+GPATH
